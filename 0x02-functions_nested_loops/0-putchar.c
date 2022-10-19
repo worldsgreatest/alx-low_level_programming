@@ -6,16 +6,17 @@
  **/
 int main(void)
 {
-
 	_putchar('_');
 	_putchar('m');
 	_putchar('s');
-	_putchar('r');
-	_putchar('c');
 	_putchar('q');
-	_putchar('u');
+	_putchar('t');
+	_putchar('p');
+	_putchar('o');
 	_putchar('a');
 	_putchar('\n');
 
 	return (0);
 }
+
+
