@@ -2,8 +2,8 @@
 
 /**
  * print_sign(int n) - prints the sign of a number
- * @n: number of the sign to be checked
- * Return: 1 if umber is greater than zero
+ * @n:the number of the sign to be checked
+ * Return: 1 if number is greater than zero
  * 0 if number is zero
  * -1 if number is less than zero
  **/
