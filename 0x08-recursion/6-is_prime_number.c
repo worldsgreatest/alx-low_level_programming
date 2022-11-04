@@ -2,7 +2,9 @@
 
 int check_prime(int, int);
 /**
- * is_prime_number - returns 1 if the input integer is a prime number, otherwise return 0
+ * is_prime_number - identifies prime number
+ * @n: number
+ * Return: an integer
  */
 int is_prime_number(int n)
 {
@@ -23,5 +25,5 @@ int check_prime(int n, int i)
 		return (0);
 	if ((n / i) < i)
 		return (1);
-	return (check_prime(n, i +1));
+	return (check_prime(n, i + 1));
 }
